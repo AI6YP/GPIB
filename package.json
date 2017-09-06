@@ -1,0 +1,25 @@
+{
+  "name": "gpib",
+  "version": "0.1.0",
+  "description": "GPIB control library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/GPIB.git"
+  },
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/GPIB/issues"
+  },
+  "homepage": "https://github.com/drom/GPIB#readme",
+  "dependencies": {
+    "usb": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1"
+  }
+}
