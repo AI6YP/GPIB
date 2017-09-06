@@ -2,8 +2,6 @@
 
 ## USBSimple
 
-![](http://www.lqelectronics.com/Products/USBUG/UGSimple/UGSimple.jpg)
-
 http://www.lqelectronics.com/Products/USBUG/UGSimple/UGSimple.html
 
 `dmesg`
@@ -18,3 +16,5 @@ http://www.lqelectronics.com/Products/USBUG/UGSimple/UGSimple.html
 ```
 
 https://github.com/haata/ugsimple-usb-gpib
+
+https://github.com/hdante/linux-gpib/blob/master/linux-gpib/language/perl/examples/n8ur/hp8569b.pl
