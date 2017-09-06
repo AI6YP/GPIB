@@ -1,0 +1,9 @@
+# USBSimple USB to GPIB cable
+SUBSYSTEM=="usb",\
+ENV{ID_VENDOR_ID}=="04d8",\
+ENV{ID_MODEL_ID}=="000C",\
+GROUP:="uucp",\
+MODE:="0660"
+SUBSYSTEM=="usb",\
+MODE:="0664",\
+GROUP:="uucp"
