@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/drom/GPIB#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "usb": "^1.2.0"
   },
   "devDependencies": {
