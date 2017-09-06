@@ -15,3 +15,6 @@ install:
   - npm install
 script: npm test
 after_success: npm run coveralls
+before_install:
+  - sudo apt-get -qq update
+  - sudo sudo apt-get install build-essential libudev-dev
