@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/drom/GPIB.svg)](https://travis-ci.org/drom/GPIB)
 # GPIB
 
 ## USBSimple
