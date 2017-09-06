@@ -17,6 +17,4 @@ http://www.lqelectronics.com/Products/USBUG/UGSimple/UGSimple.html
 [ 2054.270421] usb 3-14: Manufacturer: Microchip Technology Inc.
 ```
 
-example in Python
-
 https://github.com/haata/ugsimple-usb-gpib
